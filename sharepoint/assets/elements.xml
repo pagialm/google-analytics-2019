@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="GoogleAnalytics2019"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="b800e832-2988-4cd6-baa1-63a389115e6d"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
